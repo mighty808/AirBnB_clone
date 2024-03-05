@@ -254,13 +254,13 @@ e952b772-80a5-41e9-b728-6bc4dc5c21b4
 ```
 ## Authors
 <details>
-    <summary>Godswill Kalu</summary>
-    <summary>TIESSIA BOLA</summary>
+    <summary>Effah Aboagye</summary>
+    <summary>Emmanuel Arthur</summary>
     <ul>
-    <li><a href="https://www.github.com/lordwill">Github</a></li>
-    <li><a href="mailto:messagelordwill@gmail.com">e-mail</a></li>
-    <li><a href="https://www.github.com/Adamsbola">Github</a></li>
-    <li><a href="mailto:adamadu52@gmail.com">e-mail</a></li>
+    <li><a href="https://www.github.com/mighty808">Github</a></li>
+    <li><a href="effahaboagye888@gmail.com">e-mail</a></li>
+    <li><a href="https://www.github.com/Arthurthesage">Github</a></li>
+    <li><a href="emmanuelarthur@gmail.com">e-mail</a></li>
     </ul>
 </details>
 
