@@ -175,6 +175,10 @@ EOF  all  count  create  destroy  help  quit  show  update
 $
 ```
 
+### AUTHORS
+Effah Aboagye <effahaboagye888@gmail.com>
+Emmanuel Arthur <emmanuelarthur@gmail.com>
+
 ### Commands
 
 > The commands are displayed in the following format *Command / usage / example with output*
@@ -274,3 +278,4 @@ git shortlog -se \
   | sed -e '/^CommitSyncScript.*$/d' \
   > AUTHORS
   ```
+
